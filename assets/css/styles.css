@@ -70,7 +70,6 @@ footer .copyright span {
 
 .main {
 	position: relative;
-	min-width: 100vh;
 	background-size: cover;
 	background-position: center;
 	padding: 280px 0 220px;
@@ -80,7 +79,6 @@ footer .copyright span {
 
 .main2 {
 	position: relative;
-	min-width: 100vh;
 	background-size: cover;
 	background-position: center;
 	padding: 280px 0 220px;
@@ -92,7 +90,6 @@ footer .copyright span {
 	position: relative;
 	background-size: cover;
 	background-position: center;
-	min-width: 100vh;
 	background-image: linear-gradient(rgba(10, 10, 10, 0.7),rgba(15, 15, 15, 0.6)), url('../images/niclas.jpg'); 
 	background-attachment: fixed;
 }
